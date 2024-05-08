@@ -15,5 +15,5 @@
 
 ### Stats
 
-| ![Guillaume Mucwicki's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuillaumeMCK&show_icons=true&bg_color=FF000000&hide_border=true&icon_color=2b864b&ring_color=2b864b&hide_title=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeMCK&layout=compact&bg_color=FF000000&hide=html,scss,javascript,css&hide_border=true&hide_title=true) |
+| ![Guillaume Mucwicki's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuillaumeMCK&show_icons=true&bg_color=FF000000&hide_border=true&icon_color=2b864b&ring_color=2b864b&hide_title=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeMCK&layout=compact&bg_color=FF000000&hide=html,scss,javascript,css,ox&hide_border=true&hide_title=true) |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
